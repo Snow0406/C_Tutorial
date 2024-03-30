@@ -53,7 +53,7 @@ int main() {
 	//num++; //1 더하기
 
 	//num에다가 num(1) - 1을 해줘 ---> num(0)
-    //num = num - 1;
+	//num = num - 1;
 	//num--; //1 빼기
 
 	//printf("%d", num);
@@ -78,15 +78,15 @@ int main() {
 
 	//if - 만약 (ex : 만약 안녕이라고 하면 안녕하세요라고 말하기)
 
-	int num = 18;
+	//int num = 18;
 
 	//if (num == 18) { //if (조건문 - num이 18이라면) { // == : 같을때
 	//	printf("num은 18이야"); //출력
 	//}
 
-	if (num != 17) { //if (조건문 - num이 18이 아니라면) { // != : 다를때
-		printf("num은 18이 아니야"); //출력
-	}
+	//if (num != 17) { //if (조건문 - num이 18이 아니라면) { // != : 다를때
+	//	printf("num은 18이 아니야"); //출력
+	//}
 
 
 	//Good : if (num == 18) printf("num은 18이야"); 
