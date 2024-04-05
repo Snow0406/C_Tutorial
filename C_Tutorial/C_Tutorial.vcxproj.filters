@@ -15,10 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="day03.cpp">
+    <ClCompile Include="day02.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="day02-01.cpp">
+    <ClCompile Include="day01.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="day03.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

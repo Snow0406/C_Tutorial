@@ -127,7 +127,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="day02-01.cpp" />
+    <ClCompile Include="day01.cpp" />
+    <ClCompile Include="day02.cpp" />
     <ClCompile Include="day03.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
