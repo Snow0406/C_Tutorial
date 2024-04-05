@@ -1,6 +1,6 @@
-#include <stdio.h> 
+//#include <stdio.h> 
 
-int main() {
+//int main() {
 
 	// \n : 줄바꿈
 	//printf("안녕하세요.\n저는 스노우 입니다");
@@ -99,5 +99,5 @@ int main() {
 	//	printf("num은 18이야");
 	//}
 
-	return 0;
-}
+	//return 0;
+//}
