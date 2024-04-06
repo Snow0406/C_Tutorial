@@ -1,11 +1,10 @@
-#include <stdio.h>
-#include <string>//string 관련된 코드 가져오기
+//#include <stdio.h>
 
 //define : 정의하다, PI는 3.14로 정의하는거예요
-#define PI 3.14
-#define HelloWorld printf("Hello World !");
+//#define PI 3.14
+//#define HelloWorld printf("Hello World !");
 
-int main() {
+//int main() {
 	//HelloWorld
 	//printf("Hello World !");
 
@@ -139,23 +138,22 @@ int main() {
 
 	//숫자를 받고 2의 배수인지 확인하는 프로그램 + (1 ~ 100)
 
-int input;
-scanf_s("%d", &input);
+	//int input;
+	//scanf_s("%d", &input);
 
-// 1 ≤ input ≤ 100
-if (input >= 1 && input <= 100) {
+	// 1 ≤ input ≤ 100
+	//if (input >= 1 && input <= 100) {
 
-	if (input % 2 == 0) {
-		printf("%d는 2의 배수입니다.", input);
-	}
-	else {
-		printf("%d는 2의 배수가 아닙니다.", input);
-	}
+	//	if (input % 2 == 0) {
+	//		printf("%d는 2의 배수입니다.", input);
+	//	}
+	//	else {
+	//		printf("%d는 2의 배수가 아닙니다.", input);
+	//	}
 
-}
-else {
-	printf("1 ~ 100으로 해ㅔ주셍쇼 !");
-}
-
-	return 0;
-}
+	//}
+	//else {
+	//	printf("1 ~ 100으로 해ㅔ주셍쇼 !");
+	//}
+	//return 0;
+//}
