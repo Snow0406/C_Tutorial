@@ -133,6 +133,12 @@
     <ClCompile Include="day04-1.cpp" />
     <ClCompile Include="day04.cpp" />
     <ClCompile Include="day05.cpp" />
+    <ClCompile Include="day06.cpp" />
+    <ClCompile Include="day07.cpp" />
+    <ClCompile Include="Player.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Player.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
